@@ -1,2 +1,2 @@
 # Dragon Ball
- 2D platformer in Unity
+Unity 2D platformer  game
